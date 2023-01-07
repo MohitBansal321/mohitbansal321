@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Travel Application**
 
-- 📝 I regularly write articles on [https://medium.com/@info_mohit](https://medium.com/@info_mohit)
 
 - 💬 Ask me about **react.js , node.js and express.js**
 
