@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitbansal321" alt="mohitbansal321" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Application**
+<!-- - 🔭 I’m currently working on **Travel Application** -->
 
 
-- 💬 Ask me about **react.js , node.js and express.js**
+- 💬 Ask me about **ReactJs , JavaScript and NodeJs**
 
 - 📫 How to reach me **bmohit162001@gmail.com**
 
