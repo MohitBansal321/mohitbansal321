@@ -13,7 +13,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohitbansal321&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitbansal321&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitbansal321&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
