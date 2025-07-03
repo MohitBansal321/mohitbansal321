@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on opeanseadragon<br>👯 I’m looking to collaborate on a web-based project or some sort of libraries <br>🤝 I’m looking for help with server-side-rendering <br>💬 Ask me about ReactJS, JavaScript, NodeJS and Open-Source<br>⚡ I've contributed to an open-source project that has been used by thousands of developers around the world
+🔭 I’m currently working as SDE<br>👯 I’m looking to collaborate on a web-based project or some sort of libraries <br>🤝 I’m looking for help with server-side-rendering <br>💬 Ask me about ReactJS, JavaScript, NodeJS and Open-Source<br>⚡ I've contributed to an open-source project that has been used by thousands of developers around the world
 
 
 ## 🌐 Socials:
